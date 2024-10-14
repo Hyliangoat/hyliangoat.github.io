@@ -1,2 +1,0 @@
-# hyliangoat.github.io
-Portfolio
