@@ -36,7 +36,7 @@ export const projects = [
       'PostgreSQL',
       'Docker',
     ],
-    href: null,
+    href: 'https://github.com/Hyliangoat/SDI-Project-Two/tree/enhancement/database',
     featured: true,
   },
 
@@ -57,7 +57,7 @@ export const projects = [
       'JWT',
       'Docker',
     ],
-    href: null,
+    href: 'https://github.com/Hyliangoat/SDI-Project-3-Full-Stack',
     featured: false,
   },
 
@@ -77,7 +77,7 @@ export const projects = [
       'Keras',
       'DQN',
     ],
-    href: null,
+    href: 'https://github.com/Hyliangoat/SNHU-CS-370-Emerging-Trends',
     featured: false,
   },
 ];

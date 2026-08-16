@@ -23,7 +23,7 @@ export default function Hero() {
         <p className="hero-summary">
           I build software, games, systems, and
           occasionally things that probably did not
-          need to exist — but I am glad they do.
+          need to exist, but I am glad they do.
         </p>
 
         <div className="hero-actions">

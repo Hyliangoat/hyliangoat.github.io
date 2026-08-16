@@ -18,6 +18,7 @@ export default function Header() {
           aria-label="Primary navigation"
         >
           <a href="#work">Work</a>
+          <a href="#capstone">Capstone</a>
           <a href="#about">About</a>
           <a href="#contact">Contact</a>
 
