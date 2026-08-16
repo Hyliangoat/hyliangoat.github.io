@@ -30,8 +30,8 @@ export default function Capstone() {
         </p>
       </div>
 
+      <SelfAssessment />
       <CodeReview />
-
       <div className="capstone-grid">
         {capstoneEnhancements.map(
           (enhancement) => (
@@ -43,7 +43,6 @@ export default function Capstone() {
         )}
       </div>
 
-      <SelfAssessment />
     </section>
   );
 }
@@ -152,9 +151,6 @@ function SelfAssessment() {
   return (
     <article className="self-assessment">
       <div>
-        <span className="capstone-number">
-          04
-        </span>
 
         <p className="project-kicker">
           Professional Self-Assessment
